@@ -1,3 +1,3 @@
 # Get Qr-Code for login LINE.
 
-# line.me/ti/p/~.-belumdiatur
+Find me on [LINE](line.me/ti/p/~.-belumdiatur)
