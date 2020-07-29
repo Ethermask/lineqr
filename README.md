@@ -1,3 +1,4 @@
-# Get Qr-Code for login LINE.
-
-Find me on [LINE](line.me/ti/p/~.-belumdiatur)
+# Line-Qr
+Just library for login with line qr code v2.
+Find me on [LINE](https://line.me/ti/p/~.-belumdiatur) if you want to ask or etc
+^^
