@@ -1,1 +1,1 @@
-# AuthService
+# AuthService python-client
